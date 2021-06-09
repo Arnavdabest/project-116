@@ -1,0 +1,14 @@
+h3{
+    font-size: 30px !important;
+}
+
+button:hover{
+    background-color: firebrick !important;
+}
+
+canvas{
+    border-width: 7px;
+    border-color: khaki;
+    border-style: dashed;
+    margin-top: 120px
+}
